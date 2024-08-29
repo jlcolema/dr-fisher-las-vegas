@@ -1,0 +1,18 @@
+@charset "utf-8";
+/*..............embedded fonts..............*/ 
+
+@import url('https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800,900');
+
+/*..............embedded fonts..............*/
+
+/*..............common styles..............*/
+body{
+	height: 100%;
+	background-color: #f6f7f7;
+	font-family: Montserrat;
+	font-size: 14px;
+	font-weight: 300;
+	color: #222;
+	margin: 0;
+	padding: 0; 
+}

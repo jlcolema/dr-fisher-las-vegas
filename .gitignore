@@ -1,0 +1,10 @@
+.DS_Store
+*.code-workspace
+conf
+logs
+*.sql
+wp-config*
+app/public/wp-content/*
+!app/public/wp-content/themes
+app/public/wp-content/themes/twenty*
+!app/public/wp-content/uploads
